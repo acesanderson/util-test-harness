@@ -13,3 +13,6 @@ docker-compose run test sh
 Aliased docker-compose to dc.
 
 When in the container, cd to the python project you want to test and run pytest.
+
+### To do
+- programmatically generate tmux scripts for each project so I can immediately step into dev mode
