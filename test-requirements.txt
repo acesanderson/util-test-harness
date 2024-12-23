@@ -5,3 +5,4 @@ pytest-flakes==4.0.5
 pytest-pep8
 pytest-pythonpath
 docker
+psycopg2-binary
