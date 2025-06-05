@@ -1,0 +1,13 @@
+[32mINFO[0m:     [10-03-2025 11:20:08] Set chroma_server_nofile to 65535
+[32mINFO[0m:     [10-03-2025 11:20:08] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [10-03-2025 11:20:08] Starting component System
+[36mDEBUG[0m:    [10-03-2025 11:20:08] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [10-03-2025 11:20:08] Starting component SqliteDB
+[36mDEBUG[0m:    [10-03-2025 11:20:08] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [10-03-2025 11:20:08] Starting component Posthog
+[36mDEBUG[0m:    [10-03-2025 11:20:08] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [10-03-2025 11:20:08] Starting component SegmentAPI
+[32mINFO[0m:     [10-03-2025 11:20:08] Started server process [[36m31651[0m]
+[32mINFO[0m:     [10-03-2025 11:20:08] Waiting for application startup.
+[32mINFO[0m:     [10-03-2025 11:20:08] Application startup complete.
+[32mINFO[0m:     [10-03-2025 11:20:08] Uvicorn running on [1mhttp://localhost:8001[0m (Press CTRL+C to quit)

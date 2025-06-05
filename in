@@ -1,0 +1,7 @@
+Model: gemini-2.5-flash-preview-05-20  Temperature: None  Query: [Message(role='system', content="You are a helpful IT admin....
+────────────────────────────────────────────────────────────────────────────────────────────────────
+diff is a command-line utility that shows the differences between two files.                        
+
+Example: diff file1.txt file2.txt                                                                   
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
